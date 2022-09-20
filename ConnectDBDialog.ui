@@ -13,6 +13,9 @@
   <property name="windowTitle">
    <string>Connect DB</string>
   </property>
+  <property name="modal">
+   <bool>false</bool>
+  </property>
   <widget class="QDialogButtonBox" name="connectdbBox">
    <property name="geometry">
     <rect>
